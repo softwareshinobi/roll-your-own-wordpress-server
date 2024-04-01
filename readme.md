@@ -37,7 +37,9 @@ This repository doesn't have an overview
 
 ## Docker Pull Command
 
+```
 docker pull softwareshinobi/valorant-digital-wordpress
+```
 
 ##  coming soon
 
@@ -45,4 +47,4 @@ full docker compose. im just moving fast right now.
 
 ## see the docker image in docker hub
 
-https://hub.docker.com/r/softwareshinobi/valorant-digital-wordpress
+https://hubs.docker.com/r/softwareshinobi/valorant-digital-wordpress
