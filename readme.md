@@ -7,17 +7,31 @@ none.
 
 ## how to do it
 
+build the image to spec (see Dockerfile)
+
+```
 docker build . -t softwareshinobi/valorant-digital-wordpress
+```
 
+log in to dockerhub
+
+```
 docker login # use your dockerhub credentials
+```
 
+push to dockerhub
+
+```
 docker push  softwareshinobi/valorant-digital-wordpress
+```
 
 ## or run it
 
 will do everything and push to dockerhub.
 
+```
 bash push.bash
+```
 
 This repository doesn't have an overview
 
