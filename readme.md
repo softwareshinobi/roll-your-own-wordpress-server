@@ -6,19 +6,25 @@ the base wordpress docker image sucks. this sucks a little less.
 
 ## current modifications
 
-none.
+* none.
 
 ## future modifications
 
-increase max file upload size
+* enable API automatically
 
-increase max process wait time
+* enable API automatically
 
-remove 2024 theme
+* increase max file upload size
 
-remove 2023 theme
+* increase max process wait time
 
-install neil patel plugins
+* remove 2024 theme
+
+* remove 2023 theme
+
+* install neil patel plugins
+
+* install wpvivid
 
 ## god tier
 
