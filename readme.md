@@ -1,9 +1,30 @@
-# valorant-digital-wordpress
+# Valorant Digital Wordpress
+
+a customized wordpress docker image with some salt, pepper, and a little sauce on top.
+
 the base wordpress docker image sucks. this sucks a little less.
 
 ## current modifications
 
 none.
+
+## future modifications
+
+increase max file upload size
+
+increase max process wait time
+
+remove 2024 theme
+
+remove 2023 theme
+
+install neil patel plugins
+
+## god tier
+
+create a companion container to do the database export
+
+create a companion container to do the wordpress file export
 
 ## how to do it
 
