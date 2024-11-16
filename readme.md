@@ -1,4 +1,4 @@
-# Valorant Digital Wordpress
+# roll-your-own-wordpress-server
 
 a customized wordpress docker image with some salt, pepper, and a little sauce on top.
 
